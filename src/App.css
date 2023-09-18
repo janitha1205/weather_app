@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Scans:400,600&display=swap');
+.App{
+    height: 100vh;
+    padding-top: 10px;
+}
+
+
+
+/* .App {
+	text-align: center;
+
+} */
+
+body {
+	margin: 0;
+  padding: 0;
+  font-family:'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.text-center {
+  text-align: center;
+}
+.title {
+  font-size: 20px;
+}
+
+.weather-container {
+	text-align: center;
+	padding: 20px;
+}
+
+.weather-info {
+	margin: 20px;
+	background-color: #eee;
+	padding: 20px;
+}
+
+input {
+	padding: 10px;
+	width: 200px;
+	margin: 1px;
+}
+
+button {
+	padding: 10px;
+	cursor: pointer;
+	margin: 1px;
+	background-color: #000;
+	color: #fff;
+}
